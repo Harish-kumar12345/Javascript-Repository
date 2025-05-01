@@ -33,7 +33,7 @@
 //  fruits.set["bananas",300]
 //  fruits.set["oranges",200]
 
-//     console.log(fruits);
+//  console.log(fruits);
 
 //Map.forEach()
 
